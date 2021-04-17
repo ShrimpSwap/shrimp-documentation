@@ -30,6 +30,4 @@ When Phase 2 is activated, the token becomes a utility token. The supply starts 
 
 ## Phase 3 (Q4 2021)
 
-SHRIMP Main adoption:
-
 - We will be announcing the Phase 3 later on
