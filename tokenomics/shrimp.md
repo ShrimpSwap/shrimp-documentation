@@ -16,10 +16,11 @@ description: A perpetual deflationary token
 
 **Tokenomics**
 
-- **Total Supply** - 21M SHRIMP (18,9M for farmers, 2.1M sold during IDO)
-- **Reward per block** - 21.875 SHRIMP at blockStart, decreases every block during 60 days ([read more](deflationary-token.md))
+- **Total Supply** - 21M SHRIMP
+- **IDO distribution** - 2.1M SHRIMP used in the IDO.  1.05M sold to IDO participants, 1.05M added as liquidity. 
 - **Distribution** - 18,9M SHRIMP to farmers during 60 days
-
+- **Reward per block** - 21.875 SHRIMP at blockStart, decreases every block during 60 days ([read more](deflationary-token.md))
+- 
 **Farming Fees**
 
 ShrimpSwap collects a decreasing deposit fee, starting at just 3% and decreasing each block to reach 0% at the end of the 60 day period.
