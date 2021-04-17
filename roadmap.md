@@ -8,7 +8,7 @@ description: ShrimpSwap's Planned Features
 
 In phase 0 we will mint 21M SHRIMP tokens and sell 10% SHRIMP to create initial liquidity. All earned BNB will be used to create liquidity and unsold SHRIMP will be burned. The IDO will be announced in our telegram ([t.me/ShrimpSwapChat](https://t.me/ShrimpSwapChat)) when we have chosen the IDO platform.
 
-- IDO 2.1M SHRIMP: 1.05M sold to IDO participants, 1.05M added as liquidity.    
+- IDO 2.1M SHRIMP allocation: 1.05M sold to IDO participants, 1.05M added as liquidity. 
 
 ## Phase 1 (Q2 2021)
 
