@@ -6,9 +6,10 @@ description: Deflationary token
 
 We believe that the current yield farm ecosystem is suffering from hyperdeflation, i.e. the extremely large decrease in the general prices of tokens in the blockchain. This results in a deflationary spiral which leads to less appreciation of the token, lower Annual Percentage Rates (APRs) and lower demand for the tokens in general, and thus deposit levels. This scenario creates a deflationary environment which does not serve the interests of the parties involved.
 
-In order to solve this problem we have developed a contract in the Binance Smart Chain to combat the endemic hyperdeflation of the ecosystem and increase investor confidence; introducing the **SHRIMP deflationary token**.
+In order to solve this problem we have developed a contract in the Binance Smart Chain to combat the endemic hyperdeflation of the ecosystem and increase investor confidence; introducing the **SHRIMP deflationary token**. We capped the maximum supply to 21M SHRIMPS.
 
 ## Shrimp boils down to these fundamentals
+
 
 <img src="http://latex.codecogs.com/svg.latex?depositFee=\frac{0.03*(farmingEndBlock-currentBlock)}{totalBlocksOfRewards}" />
 
