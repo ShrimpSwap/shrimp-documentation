@@ -8,7 +8,7 @@ description: A perpetual deflationary token
 
 **Token:** SHRIMP
 
-- **SHRIMP:** [TODO](https://bscscan.com/address/TODO)
+- **SHRIMP:** [0x62ee12E4Fe74a815302750913C3C796BCa23e40E](https://bscscan.com/address/0x62ee12E4Fe74a815302750913C3C796BCa23e40E)
 - **MasterShrimp:** [TODO](https://bscscan.com/address/TODO)
 - **Timelock:** [TODO](https://bscscan.com/address/TODO) (delay: 12h)
 
