@@ -8,7 +8,7 @@ description: A perpetual deflationary token
 
 **Token:** SHRIMP
 
-- **SHRIMP:** [0x62ee12E4Fe74a815302750913C3C796BCa23e40E](https://bscscan.com/address/0x62ee12E4Fe74a815302750913C3C796BCa23e40E)
+- **SHRIMP:** [0x62ee12e4fe74a815302750913c3c796bca23e40e](https://bscscan.com/address/0x62ee12e4fe74a815302750913c3c796bca23e40e)
 - **MasterShrimp:** [TODO](https://bscscan.com/address/TODO)
 - **Timelock:** [TODO](https://bscscan.com/address/TODO) (delay: 12h)
 
@@ -17,18 +17,17 @@ description: A perpetual deflationary token
 **Tokenomics**
 
 - **MAX Supply** - There will be a max of 21M SHRIMP tokens only.
-- **IDO distribution** - 2.1M SHRIMP allocated for the IDO. 1.05M sold to IDO participants, 1.05M added as liquidity. 
+- **IDO distribution** - 2.1M SHRIMP allocated for the IDO. 1.05M sold to IDO participants, 1.05M added as liquidity.
 - **Distribution** - 18,9M SHRIMP to farmers during 60 days
 - **Reward per block** - 21.875 SHRIMP at blockStart, decreases every block during 60 days ([read more](deflationary-token.md))
-- 
-**Farming Fees**
+- **Farming Fees**
 
 ShrimpSwap collects a decreasing deposit fee, starting at just 3% and decreasing each block to reach 0% at the end of the 60 day period.
 
 The fee allocation is the following:
 
 - 1% Stays on the deployer wallet (0x1076CFA6ADd884F3fd3B3003FfC5941f97c8978B) to be used for:
-  - Audit; 
+  - Audit;
   - Marketing activities such as paid AMAs, paid marketing influencers, etc.
   - Moderator compensation;
   - Launchpools;

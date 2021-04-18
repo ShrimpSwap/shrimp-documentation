@@ -6,15 +6,15 @@ description: ShrimpSwap's Contracts
 
 Our contracts are publicly accessible in the following repo [github.com/shrimpswap/shrimp-contracts](https://github.com/shrimpswap/shrimp-contracts)
 
-- **SHRIMP:** [TODO](https://bscscan.com/address/TODO)
+- **SHRIMP:** [0x62ee12e4fe74a815302750913c3c796bca23e40e](https://bscscan.com/address/0x62ee12e4fe74a815302750913c3c796bca23e40e)
 - **MasterShrimp:** [TODO](https://bscscan.com/address/TODO)
-- **Timelock:** [TODO](https://bscscan.com/address/TODO) (delay: 24h)
+- **Timelock:** [TODO](https://bscscan.com/address/TODO) (delay: 12h)
 
 **How are our contracts safe?**
 
 We have based our implementation in Goose Finance's EGG token and have the following features:
 
-- **24h** timelock added to contract at launch;
+- **12h** timelock added to contract at launch;
 - No migrator code, it was totally removed;
 - Contract audit in the pipeline.
 
