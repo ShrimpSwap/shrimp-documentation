@@ -9,7 +9,7 @@ description: A perpetual deflationary token
 **Token:** SHRIMP
 
 - **SHRIMP:** [0x62ee12e4fe74a815302750913c3c796bca23e40e](https://bscscan.com/address/0x62ee12e4fe74a815302750913c3c796bca23e40e)
-- **MasterShrimp:** [TODO](https://bscscan.com/address/TODO)
+- **MasterShrimp:** [0xABEE2aaF12E92384274D61d0dbd31bD7Fc35f38c](https://bscscan.com/address/0xABEE2aaF12E92384274D61d0dbd31bD7Fc35f38c)
 - **Timelock:** [TODO](https://bscscan.com/address/TODO) (delay: 12h)
 
 **Chain:** Binance Smart Chain \(BEP-20\)
