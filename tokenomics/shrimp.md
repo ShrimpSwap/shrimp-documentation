@@ -25,16 +25,11 @@ description: A perpetual deflationary token
 ShrimpSwap collects a decreasing deposit fee, starting at just 3% and decreasing each block to reach 0% at the end of the 60 day period.
 
 The fee allocation is the following:
-
-- 1% Stays on the deployer wallet (0x1076CFA6ADd884F3fd3B3003FfC5941f97c8978B) to be used for:
-  - Audit;
-  - Marketing activities such as paid AMAs, paid marketing influencers, etc.
-  - Moderator compensation;
-  - Launchpools;
-  - Listing on Exchanges;
-- 0.5% buyback SHRIMP and burn 🔥 (0x7b5715BDaf8b9C4407d974657bFa1eb0f03f255e)
-- 1.5% Product Research and Development 💻 (0x430c2c5314d2e1C7289211C1Ed5afC1ad107dE9e)
-  - Designers, developers, servers, domains, among other operational costs.
+| fee | Purpose |
+------|-----------
+| 1%  | Stays on the deployer wallet (0x1076CFA6ADd884F3fd3B3003FfC5941f97c8978B) to be used for: <br> - Audit <br> - Marketing activities such as paid AMAs, paid marketing influencers, etc. <br> - Moderator compensation; <br> - Launchpools; <br> - Listing on Exchanges;|
+| 0.5% | Buyback SHRIMP and burn 🔥 (0x7b5715BDaf8b9C4407d974657bFa1eb0f03f255e) |
+| 1.5% | Product Research and Development 💻 (0x430c2c5314d2e1C7289211C1Ed5afC1ad107dE9e) <br> - Designers, developers, servers, domains, among other operational costs.|
 
 **Time lock**
 
