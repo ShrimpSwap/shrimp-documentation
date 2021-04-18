@@ -26,7 +26,7 @@
 ## Community
 
 - [Incentives](community-social/incentives.md)
-- [Twitter](community-social/untitled.md)
+- [Twitter](community-social/Twitter.md)
 - [Telegram](community-social/telegram.md)
 - [Blog \(Medium\)](community-social/blog-medium.md)
 - [Github](community-social/github.md)
