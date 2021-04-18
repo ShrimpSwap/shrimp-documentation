@@ -7,7 +7,7 @@ description: ShrimpSwap's Contracts
 Our contracts are publicly accessible in the following repo [github.com/shrimpswap/shrimp-contracts](https://github.com/shrimpswap/shrimp-contracts)
 
 - **SHRIMP:** [0x62ee12e4fe74a815302750913c3c796bca23e40e](https://bscscan.com/address/0x62ee12e4fe74a815302750913c3c796bca23e40e)
-- **MasterShrimp:** [TODO](https://bscscan.com/address/TODO)
+- **MasterShrimp:** [0xABEE2aaF12E92384274D61d0dbd31bD7Fc35f38c](https://bscscan.com/address/0xABEE2aaF12E92384274D61d0dbd31bD7Fc35f38c)
 - **Timelock:** [TODO](https://bscscan.com/address/TODO) (delay: 12h)
 
 **How are our contracts safe?**
