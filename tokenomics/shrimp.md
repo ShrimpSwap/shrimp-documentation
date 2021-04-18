@@ -22,10 +22,8 @@ description: A perpetual deflationary token
 - **Reward per block** - 21.875 SHRIMP at blockStart, decreases every block during 60 days ([read more](deflationary-token.md))
 - **Farming Fees**
 
-ShrimpSwap collects a decreasing deposit fee, starting at just 3% and decreasing each block to reach 0% at the end of the 60 day period.
-
-The fee allocation is the following:
-| fee | Purpose |
+ShrimpSwap collects a decreasing deposit fee, starting at just 3% and decreasing each block to reach 0% at the end of the 60 day period. Here is how the fee will be used:
+| Fee | Purpose |
 ------|-----------
 | 1%  | Stays on the deployer wallet (0x1076CFA6ADd884F3fd3B3003FfC5941f97c8978B) to be used for: <br> - Audit <br> - Marketing activities such as paid AMAs, paid marketing influencers, etc. <br> - Moderator compensation; <br> - Launchpools; <br> - Listing on Exchanges;|
 | 0.5% | Buyback SHRIMP and burn 🔥 (0x7b5715BDaf8b9C4407d974657bFa1eb0f03f255e) |
