@@ -17,7 +17,7 @@ description: A perpetual deflationary token
 **Tokenomics**
 
 - **MAX Supply** - There will be a max of 21M SHRIMP tokens.
-- **IDO distribution** - 2.1M SHRIMP allocated for the IDO. 1.05M sold to IDO participants, 1.05M added as liquidity.
+- **IDO distribution** - 2.1M SHRIMP allocated for the IDO. 1.05M sold to IDO participants, 1.05M added as liquidity. Non sold tokens will be burned.
 - **Distribution** - 18,9M SHRIMP to farmers during 60 days
 - **Reward per block** - 21.875 SHRIMP at blockStart, decreases every block during 60 days ([read more](deflationary-token.md))
 - **Farming Fees**
