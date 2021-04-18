@@ -39,3 +39,8 @@ The fee allocation is the following:
 **Time lock**
 
 We will be adding a timelock contract as the owner of the MasterShrimp. The timelock will be activated with a **12h delay**, this should give you enough time to validate any of our transactions.
+
+## Unsold Tokens
+
+Due to the nature of our deflationary reward, the more you harvest the more rewards you will receive. Slow farmers in other hand will receive less rewards.
+For this reason, some SHRIMP might never be distributed to the farmers. If any SHRIMP remains in the farming contract after the farming is over we will burn all it!
