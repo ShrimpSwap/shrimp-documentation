@@ -36,4 +36,4 @@ We will be adding a timelock contract as the owner of the MasterShrimp. The time
 ## Unsold Tokens
 
 Due to the nature of our deflationary reward, the more you harvest the more rewards you will receive. Slow farmers in other hand will receive less rewards.
-For this reason, some SHRIMP might never be distributed to the farmers. If any SHRIMP remains in the farming contract after the farming is over we will burn all it!
+For this reason, some SHRIMP might never be distributed to the farmers. If any SHRIMP remains in the farming contract after the farming is over we will burn all of it!
