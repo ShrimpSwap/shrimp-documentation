@@ -17,6 +17,7 @@
 ## Tokenomics
 
 - [SHRIMP](tokenomics/shrimp.md)
+- [BURN](tokenomics/burn.md)
 - [Contracts](core-products/contracts.md)
 
 <!-- ## Guides
