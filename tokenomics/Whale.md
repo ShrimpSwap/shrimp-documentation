@@ -25,7 +25,7 @@ description: A shrimp reward token
 | Income | Purpose |
 ------|-----------
 | 2% Deposit fee  | Stays on the deployer wallet (0x1076CFA6ADd884F3fd3B3003FfC5941f97c8978B) to be used for: <br> - Marketing activities. <br> - Moderator compensation; <br> - Launchpools; <br> - Listing on Exchanges;|
-| 0.1 WHALE per block  | Stays on the developer wallet (0x430c2c5314d2e1C7289211C1Ed5afC1ad107dE9e) to be used for Mod and dev compensation. Most of this will be burned |
+| 0.1 WHALE per block  | Stays on the developer wallet (0x430c2c5314d2e1C7289211C1Ed5afC1ad107dE9e) to be used for Moderator and Developer compensation. However most of this will be burned |
 
 **Time lock**
 
