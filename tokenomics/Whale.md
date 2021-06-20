@@ -1,5 +1,5 @@
 ---
-description: A perpetual deflationary token
+description: A shrimp reward token
 ---
 
 # SHRIMP
