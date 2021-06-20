@@ -10,6 +10,10 @@ Our contracts are publicly accessible in the following repo [github.com/shrimpsw
 - **MasterShrimp:** [0xABEE2aaF12E92384274D61d0dbd31bD7Fc35f38c](https://bscscan.com/address/0xABEE2aaF12E92384274D61d0dbd31bD7Fc35f38c)
 - **Timelock:** [0xa6835d6b0e3760e32458d3a8c0e59c96c921fbb9](https://bscscan.com/address/0xa6835d6b0e3760e32458d3a8c0e59c96c921fbb9) (delay: 12h)
 
+## V2
+- **WHALE:** [0x93662179C3590D4dA42858ABE917C10542a40831](https://bscscan.com/address/0x93662179C3590D4dA42858ABE917C10542a40831)
+- **MasterWhale:** [0x709Fb31315ce6DE514C7991CCAAeF8B63ABBb77e](https://bscscan.com/address/0x709Fb31315ce6DE514C7991CCAAeF8B63ABBb77e)
+
 **How are our contracts safe?**
 
 We have based our implementation in Goose Finance's EGG token and have the following features:
