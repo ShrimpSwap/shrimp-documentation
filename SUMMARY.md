@@ -22,6 +22,7 @@
 
 ## V2 Whale
 - [Contracts](core-products/contracts.md)
+- [WHALE](tokenomics/Whale.md)
 
 <!-- ## Guides
 
