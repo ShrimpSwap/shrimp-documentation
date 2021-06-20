@@ -20,6 +20,9 @@
 - [BURN](tokenomics/burn.md)
 - [Contracts](core-products/contracts.md)
 
+## V2 Whale
+- [Contracts](core-products/contracts.md)
+
 <!-- ## Guides
 
 - [How to use MetaMask on ShrimpSwap](guides/shrimpswap-metamask.md) -->
