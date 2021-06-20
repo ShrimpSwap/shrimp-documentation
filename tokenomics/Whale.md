@@ -4,7 +4,7 @@ description: A perpetual deflationary token
 
 # SHRIMP
 
-![WHALE Logo](../.gitbook/assets/shrimp.svg)
+![WHALE Logo](../.gitbook/assets/whale.svg)
 
 **Token:** WHALE
 
