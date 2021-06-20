@@ -2,7 +2,7 @@
 description: A shrimp reward token
 ---
 
-# SHRIMP
+# WHALE
 
 ![WHALE Logo](../.gitbook/assets/whale.svg)
 
