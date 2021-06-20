@@ -22,11 +22,11 @@ Phase 1 is where we start distributing the SHRIMP token to farmers. Users will b
 
 When Phase 2 is activated, the token becomes a utility token. The supply starts to shrink due to burns on the lottery. The token will then be used to purchase NFTs, Lottery tickets, play games and so on.
 
+- Rewards for Shrimp LP providers
 - Wheel of Fortune and other casino games
-- NFT: Non Fungible Tokens
 - SHRIMP Governance
 - IDO: Initial DEX Offerings
-- Integration with Cardano blockchain
+- Integration with Cardano blockchain (TBD)
 
 ## Phase 3 (Q4 2021)
 
