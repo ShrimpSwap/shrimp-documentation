@@ -8,7 +8,7 @@ description: A shrimp reward token
 
 **Token:** WHALE
 
-- **SHRIMP:** [0x93662179C3590D4dA42858ABE917C10542a40831](https://bscscan.com/address/0x93662179C3590D4dA42858ABE917C10542a40831)
+- **WHALE:** [0x93662179C3590D4dA42858ABE917C10542a40831](https://bscscan.com/address/0x93662179C3590D4dA42858ABE917C10542a40831)
 - **MasterWhale:** [0x709Fb31315ce6DE514C7991CCAAeF8B63ABBb77e](https://bscscan.com/address/0x709Fb31315ce6DE514C7991CCAAeF8B63ABBb77e)
 - **Timelock:** [TBD](https://bscscan.com/address/TBD) (delay: 12h)
 
